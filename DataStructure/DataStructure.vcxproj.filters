@@ -27,7 +27,7 @@
     <ClCompile Include="Polynomial0.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Second\Second\String.cpp">
+    <ClCompile Include="String.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

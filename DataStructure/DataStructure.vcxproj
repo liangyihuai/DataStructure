@@ -113,11 +113,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\Second\Second\String.cpp" />
     <ClCompile Include="Matrix .cpp" />
     <ClCompile Include="Polynomial.cpp" />
     <ClCompile Include="Polynomial0.cpp" />
     <ClCompile Include="SparseMatrix.cpp" />
+    <ClCompile Include="String.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
